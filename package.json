@@ -1,0 +1,15 @@
+{
+  "name": "remark-czech-preprocessor",
+  "version": "0.1.0",
+  "description": "Remark preprocessor for better Czech typography on the web (adds hyphenation and other things).",
+  "main": "index.js",
+  "author": "Tomáš Vejpustek (tom.vejpustek@centrum.cz)",
+  "homepage": "https://github.com/tomvej/remark-czech-preprocessor",
+  "repository": "github:tomvej/remark-czech-preprocessor",
+  "license": "MIT",
+  "dependencies": {
+    "hyphenation.cs": "0.2.1",
+    "hypher": "0.2.5",
+    "unist-util-visit": "2.0.3"
+  }
+}
